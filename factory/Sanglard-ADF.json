@@ -1,0 +1,9 @@
+{
+	"name": "Sanglard-ADF",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f1580244-e4cc-48c9-957c-7c9c3bd5f000",
+		"tenantId": "bdc09d46-1745-466e-b5c4-72ab8a56e572"
+	}
+}
